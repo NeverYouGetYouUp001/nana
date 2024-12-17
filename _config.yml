@@ -12,9 +12,9 @@ title                    : "小薛Website"
 title_separator          : "-"
 name                     : &name "薛三金"
 description              : &description "薛三金官方个人网站"
-url                      : https://github.com/NeverYouGetYouUp001/neveryougetyouup001.github.io/ # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : https://home.xueprint.us.kg/ # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "/neveryougetyouup001.github.io/
+repository               : "NeverYouGetYouUp001/neveryougetyouup001.github.io/
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
