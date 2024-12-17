@@ -12,7 +12,7 @@ title                    : "小薛Website"
 title_separator          : "-"
 name                     : &name "薛三金"
 description              : &description "薛三金官方个人网站"
-url                      : https://home.xueprint.us.kg/ # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : https://neveryougetyouup001.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "NeverYouGetYouUp001/neveryougetyouup001.github.io/
 
@@ -25,8 +25,8 @@ author:
   name             : "薛三斤"
   pronouns         : # example: "she/her"  
   bio              : "小薛集团的总老板"
-  location         : "地球"
-  employer         : "登峰学校"
+  location         : "Earth"
+  employer         : "Unknown"
   uri              : # URL
   email            : "xx9106397@gmail.com" 
 
